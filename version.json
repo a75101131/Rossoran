@@ -1,5 +1,5 @@
 {
-    "version": "1.0.1",
-    "changelog": "修復自動更新邏輯",
+    "version": "1.0.2",
+    "changelog": "0857",
     "download_url": "https://raw.githubusercontent.com/a75101131/Rossoran/refs/heads/main/core_logic.py"
 }
