@@ -1,0 +1,5 @@
+{
+    "version": "1.0.2",
+    "changelog": "1. 優化三區同時並行復活秒數\n2. 縮小VM賣物NPC與買賣偵測範圍",
+    "download_url": "https://raw.githubusercontent.com/a75101131/Rossoran/main/core_logic.py"
+}
