@@ -1,5 +1,5 @@
 {
-    "version": "1.0.8",
-    "changelog": "新增版本號顯示",
+    "version": "1.0.9",
+    "changelog": "三區復活更新+車頭1小時未動作跳卡圖通知",
     "download_url": "https://raw.githubusercontent.com/a75101131/Rossoran/refs/heads/main/core_logic.py"
 }
