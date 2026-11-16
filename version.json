@@ -1,5 +1,5 @@
 {
-    "version": "1.0.12",
-    "changelog": "三區復活方式",
+    "version": "1.0.13",
+    "changelog": "優化三區復活以及新增自訂秒數+車頭偵測優化",
     "download_url": "https://raw.githubusercontent.com/a75101131/Rossoran/refs/heads/main/core_logic.py"
 }
