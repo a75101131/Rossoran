@@ -1,5 +1,5 @@
 {
-    "version": "1.0.13",
-    "changelog": "優化三區復活以及新增自訂秒數+車頭偵測優化",
+    "version": "1.0.14",
+    "changelog": "新增雙車頭本館賣物+復活相似度優化",
     "download_url": "https://raw.githubusercontent.com/a75101131/Rossoran/refs/heads/main/core_logic.py"
 }
