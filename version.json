@@ -1,5 +1,5 @@
 {
-    "version": "1.0.14",
-    "changelog": "新增雙車頭本館賣物+復活相似度優化",
+    "version": "1.0.15",
+    "changelog": "修復打手1+2無法單開問題",
     "download_url": "https://raw.githubusercontent.com/a75101131/Rossoran/refs/heads/main/core_logic.py"
 }
